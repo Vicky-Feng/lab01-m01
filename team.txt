@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 Yingqi Feng
 Edward
 Bryant
 
+=======
+Jessie
+>>>>>>> Stashed changes
