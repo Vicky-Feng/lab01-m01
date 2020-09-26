@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 Bryant
-=======
+
 Edward
->>>>>>> 00c259ff7e3c2aa1f7ee9cf4b63c323864db45fd
