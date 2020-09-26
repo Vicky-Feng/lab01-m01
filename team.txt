@@ -1,10 +1,6 @@
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 Gary Gao
-=======
-Guangze Xu
-Guangze Xu2111111
+Yingqi Feng
+Edward
+Bryant
+Jessie
 
-=======
-team.txt
->>>>>>> Stashed changes
