@@ -1,4 +1,10 @@
-# lab01-m01
-"Edward"
-"Guangze"
-"Gary"
+<<<<<<< Updated upstream
+<<<<<<< HEAD
+Gary Gao
+=======
+Guangze Xu
+Guangze Xu2111111
+
+=======
+team.txt
+>>>>>>> Stashed changes
